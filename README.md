@@ -171,7 +171,6 @@ Réponse :
 23. Pour mettre à jour (dans le même état) les branches de suivi (_tracking branch_) avec les branches distantes, il faut:
 
 - Utiliser `git fetch`.
-- Utiliser `git pull`
 
 24. `git pull` fait automatiquement un rapatriement de commits d'une branche à l'autre via une stratégie de _merge_:
 
