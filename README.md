@@ -97,9 +97,7 @@ Réponse :
 5. Quels sont les 2 types de branches qui existent dans un dépôt git _sur_ l'ordinateur d'un·e développeur·se ?
 
 - les références locales de branches distantes
-- les transactions
 - les locales
-- les distantes
 
 6. À quoi sert la commande `git fetch -p` ? Utiliser la documentation `man git fetch`.
 
