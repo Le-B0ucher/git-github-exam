@@ -134,10 +134,7 @@ Réponse :
 
 14. Lorsqu'il y a un conflit, qu'indique la commande `git status` sur les fichiers qui demandent une résolution ?
 
-- twice modified
-- conflicted
 - both modified
-- warning
 
 15. Dans quelle zone du dépôt est-ce que les modifications sont regroupées _avant_ de créer un commit ?
 
