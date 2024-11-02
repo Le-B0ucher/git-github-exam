@@ -175,7 +175,6 @@ Réponse :
 24. `git pull` fait automatiquement un rapatriement de commits d'une branche à l'autre via une stratégie de _merge_:
 
 - Vrai.
-- Faux.
 
 25. Le nom `origin` donné à un dépôt distant est:
 
